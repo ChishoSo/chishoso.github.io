@@ -9,10 +9,11 @@
   <body>
     <main>
         <h1>contact</h1>  
-        <p>Name</p>
+        <p>參考以下連結</p>
       <a href="https://chishoso.github.io/">Homepage</a>
       <a href="https://chishoso.github.io/about">Homepage</a>
       <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site#next-steps">Homepage</a>
+      <a href="https://www.free-css.com/free-css-templates/page292/grandcoffee">範本</a>
     </main>
   </body>
 </html>
