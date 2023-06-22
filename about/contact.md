@@ -11,6 +11,8 @@
         <h1>contact</h1>  
         <p>Name</p>
       <a href="https://chishoso.github.io/">Homepage</a>
+      <a href="https://chishoso.github.io/about">Homepage</a>
+      <a href="[https://chishoso.github.io/](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site#next-steps)https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site#next-steps">Homepage</a>
     </main>
   </body>
 </html>
