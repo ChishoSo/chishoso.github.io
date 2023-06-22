@@ -9,7 +9,7 @@
   <body>
     <main>
         <h1>contact</h1>  
-        <p>This is my new website which is hosted on GitHub Pages!</p>
+        <p>Name</p>
     </main>
   </body>
 </html>
