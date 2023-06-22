@@ -10,6 +10,7 @@
     <main>
         <h1>contact</h1>  
         <p>Name</p>
+      <a href="https://chishoso.github.io/">link text</a>
     </main>
   </body>
 </html>
